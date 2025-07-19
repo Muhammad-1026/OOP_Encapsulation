@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\C#\C#-Console\OOP\Encapsulation\Encapsulation\bin\Debug\net9.0\Encapsulation.exe
+C:\Users\lenovo\Desktop\C#\C#-Console\OOP\Encapsulation\Encapsulation\bin\Debug\net9.0\Encapsulation.deps.json
+C:\Users\lenovo\Desktop\C#\C#-Console\OOP\Encapsulation\Encapsulation\bin\Debug\net9.0\Encapsulation.runtimeconfig.json
+C:\Users\lenovo\Desktop\C#\C#-Console\OOP\Encapsulation\Encapsulation\bin\Debug\net9.0\Encapsulation.dll
+C:\Users\lenovo\Desktop\C#\C#-Console\OOP\Encapsulation\Encapsulation\bin\Debug\net9.0\Encapsulation.pdb
+C:\Users\lenovo\Desktop\C#\C#-Console\OOP\Encapsulation\Encapsulation\obj\Debug\net9.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\C#\C#-Console\OOP\Encapsulation\Encapsulation\obj\Debug\net9.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\C#\C#-Console\OOP\Encapsulation\Encapsulation\obj\Debug\net9.0\Encapsulation.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\C#\C#-Console\OOP\Encapsulation\Encapsulation\obj\Debug\net9.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\C#\C#-Console\OOP\Encapsulation\Encapsulation\obj\Debug\net9.0\Encapsulation.dll
+C:\Users\lenovo\Desktop\C#\C#-Console\OOP\Encapsulation\Encapsulation\obj\Debug\net9.0\refint\Encapsulation.dll
+C:\Users\lenovo\Desktop\C#\C#-Console\OOP\Encapsulation\Encapsulation\obj\Debug\net9.0\Encapsulation.pdb
+C:\Users\lenovo\Desktop\C#\C#-Console\OOP\Encapsulation\Encapsulation\obj\Debug\net9.0\Encapsulation.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\C#\C#-Console\OOP\Encapsulation\Encapsulation\obj\Debug\net9.0\ref\Encapsulation.dll
